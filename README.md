@@ -1,5 +1,7 @@
 # GLBIO-2021
 
+Link to website: https://maese005.wixsite.com/mysite
+
 **Exercise 1**
 * Model Architecture: CNN
 * Language: Python
