@@ -1,7 +1,7 @@
 # GLBIO-2021
 
 Note: It appears, sometimes, Github may have trouble viewing .ipynb files.
-You may recieve the message: "Sorry, something went wrong. Reload?" when viewing *.ipynb #11
+You may recieve the message: "Sorry, something went wrong. Reload?" 
 If this is the case, please see the links below!
 
 Link to website: https://maese005.wixsite.com/mysite
