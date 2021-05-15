@@ -19,3 +19,9 @@ Link to website: https://maese005.wixsite.com/mysite
 * Language: R
 * [Data: Diabetes Dataset](https://www.kaggle.com/kumargh/pimaindiansdiabetescsv)
 
+**Exercise 4**
+* Model Architecture: Logistic regression (implemented from scratch and via sklearn)
+* Language: Python
+* [Data: Diabetes Dataset](https://www.kaggle.com/kumargh/pimaindiansdiabetescsv)
+
+
