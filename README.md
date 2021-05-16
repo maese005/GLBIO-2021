@@ -30,7 +30,7 @@ If this is the case, please see the links below!
 * Language: Python
 * [Data: Diabetes Dataset](https://www.kaggle.com/kumargh/pimaindiansdiabetescsv)
 
-**Exercise 5** [Link to COde](https://colab.research.google.com/drive/17bS57kYOrjpuoY-Kn002Ei9wdUiPZn-V?usp=sharing)
+**Exercise 5** [Link to Code](https://colab.research.google.com/drive/17bS57kYOrjpuoY-Kn002Ei9wdUiPZn-V?usp=sharing)
 * Model Architecture: CNN (fastai)
 * Language: Python
 * [Data: X-ray Images](https://drive.google.com/drive/folders/1j-c1aGvZzRMP2Q1H11XJlWi7Z-ZYPEfe)
